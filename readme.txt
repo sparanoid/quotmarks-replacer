@@ -13,6 +13,11 @@ Quotmarks Replacer is a plugin disables wptexturize founction that keeps all quo
 
 Quotmarks Replacer 是一个通过禁用 wptexturize 函数，解决 WordPress 自动将半角的单引号、双引号和省略号转换为全角标点的问题。使后台输入的标点格式与前台读者浏览的标点格式保持一致的插件。
 
+Screenshots
+http://lib.sparanoid.com/qmr01.jpg
+http://lib.sparanoid.com/qmr02.jpg
+http://lib.sparanoid.com/qmr03.jpg
+
 == Installation ==
 
 1. Extract wpomatic.zip in the `/wp-content/plugins/` directory
@@ -20,9 +25,7 @@ Quotmarks Replacer 是一个通过禁用 wptexturize 函数，解决 WordPress �
 
 == Screenshots ==
 
-1. Editing
-2. Before
-3. After
+Please visit the [Description](http://wordpress.org/extend/plugins/quotmarks-replacer/) tab
 
 == Frequently Asked Questions ==
 
