@@ -3,7 +3,7 @@
 Plugin Name: Quotmarks Replacer
 Plugin URI: http://sparanoid.com/tag/quotmarks-replacer/
 Description: A plugin disables wptexturize founction that keeps all quotation marks and suspension points in DBC case. 通过禁用 wptexturize 函数，解决 WordPress 自动将半角的单引号、双引号和省略号转换为全角标点的问题。使后台输入的标点格式与前台读者浏览的标点格式保持一致。
-Version: 2.1
+Version: 2.1.1
 Author: Sparanoid
 Author URI: http://sparanoid.com/
 */
