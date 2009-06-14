@@ -9,13 +9,9 @@ Stable tag: 2.1.1
 Quotmarks Replacer is a plugin disables wptexturize founction that keeps all quotation marks and suspension points in DBC case.
 
 == Description ==
-    Quotmarks Replacer is a plugin disables wptexturize founction that keeps all quotation marks and suspension points in DBC case.
+Quotmarks Replacer is a plugin disables wptexturize founction that keeps all quotation marks and suspension points in DBC case.
 
-    Quotmarks Replacer 是一个通过禁用 wptexturize 函数，解决 WordPress 自动将半角的单引号、双引号和省略号转换为全角标点的问题。使后台输入的标点格式与前台读者浏览的标点格式保持一致的插件。
-
-== Development Blog ==
-
-[Sparanoid WordPress Plugins Development Blog](http://sparanoid.com/tag/quotmarks-replacer/ "Sparanoid WordPress Plugins Development Blog")
+Quotmarks Replacer 是一个通过禁用 wptexturize 函数，解决 WordPress 自动将半角的单引号、双引号和省略号转换为全角标点的问题。使后台输入的标点格式与前台读者浏览的标点格式保持一致的插件。
 
 == Installation ==
 
@@ -24,8 +20,10 @@ Quotmarks Replacer is a plugin disables wptexturize founction that keeps all quo
 
 == Screenshots ==
 
-[Quotmarks Replacer Screenshots](http://sparanoid.com/project/quotmarks-replacer/)
+1. Editing
+2. Before
+3. After
 
 == Frequently Asked Questions ==
 
-[Sparanoid WordPress Plugins Development Blog](http://sparanoid.com/tag/quotmarks-replacer/ "Sparanoid WordPress Plugins Development Blog")
+None. If you have any question, go [here](http://sparanoid.com/tag/quotmarks-replacer/)
