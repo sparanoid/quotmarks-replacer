@@ -3,7 +3,7 @@ Contributors: Sparanoid
 Donate link: http://sparanoid.com/tag/quotmarks-replacer/
 Tags: content, contents, posts, post, writing, html, wptexturize, wpmu
 Requires at least: 2.0
-Tested up to: 2.8.1
+Tested up to: 2.8.2
 Stable tag: 2.2
 
 Quotmarks Replacer is a plugin disables wptexturize founction that keeps all quotation marks and suspension points in DBC case.
