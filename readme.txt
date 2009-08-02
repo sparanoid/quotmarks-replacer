@@ -2,7 +2,7 @@
 Contributors: Sparanoid
 Donate link: http://sparanoid.com/tag/quotmarks-replacer/
 Tags: content, contents, posts, post, writing, html, wptexturize, wpmu
-Requires at least: 2.0
+Requires at least: 1.5
 Tested up to: 2.8.2
 Stable tag: 2.2
 
