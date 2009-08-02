@@ -1,7 +1,7 @@
 === Quotmarks Replacer ===
 Contributors: Sparanoid
 Donate link: http://sparanoid.com/tag/quotmarks-replacer/
-Tags: content, contents, posts, post, writing, html, wptexturize
+Tags: content, contents, posts, post, writing, html, wptexturize, wpmu
 Requires at least: 2.0
 Tested up to: 2.8.1
 Stable tag: 2.2
@@ -23,8 +23,16 @@ Screenshots
 
 == Installation ==
 
+For WordPress Users:
+
 1. Extract wpomatic.zip in the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
+
+For WordPress Mu Users:
+
+1. Extract wpomatic.zip in the `/wp-content/mu-plugins/` directory
+2. That's all.
+
 
 == Screenshots ==
 
