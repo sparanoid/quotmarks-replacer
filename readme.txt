@@ -1,7 +1,7 @@
 === Quotmarks Replacer ===
 Contributors: Sparanoid
 Donate link: http://sparanoid.com/tag/quotmarks-replacer/
-Tags: content, contents, posts, post, writing, html, wptexturize, wpmu
+Tags: admin, administration, comment, comments, content, contents, excerpt, feed, feeds, html, page, pages, plugin, plugins, post, posts, template, text, title, writing, wptexturize, wpmu
 Requires at least: 1.5
 Tested up to: 2.8.4
 Stable tag: 2.2
