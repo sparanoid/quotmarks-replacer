@@ -6,12 +6,12 @@ Requires at least: 1.5
 Tested up to: 2.8.4
 Stable tag: 2.2
 
-Quotmarks Replacer is a plugin disables wptexturize founction that keeps all quotation marks and suspension points in DBC case.
+Quotmarks Replacer is a plugin disables wptexturize founction that keeps all quotation marks and suspension points in half-width form.
 
 == Description ==
-Quotmarks Replacer is a plugin disables wptexturize founction that keeps all quotation marks and suspension points in DBC case.
+Quotmarks Replacer is a plugin disables wptexturize founction that keeps all quotation marks and suspension points in half-width form. Also this plugin works fine with WordPress Mu.
 
-Quotmarks Replacer 是一个通过禁用 wptexturize 函数，解决 WordPress 自动将半角的单引号、双引号和省略号转换为全角标点的问题。使后台输入的标点格式与前台读者浏览的标点格式保持一致的插件。
+Quotmarks Replacer 通过禁用 wptexturize 函数，解决 WordPress 自动将半角的单引号、双引号和省略号转换为全角标点的问题。使后台输入的标点格式与前台读者浏览的标点格式保持一致。并且对 WordPress 有良好的支持。
 
 Screenshots
 
@@ -33,6 +33,10 @@ For WordPress Mu Users:
 1. Extract .zip in the `/wp-content/mu-plugins/` directory
 2. That's all.
 
+Or:
+
+1. Extract .zip in the `/wp-content/plugins/` directory
+2. Wait for your bloggers to choose whether activate it or not.
 
 == Screenshots ==
 
