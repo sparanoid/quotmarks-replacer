@@ -23,12 +23,12 @@ Screenshots
 
 == Installation ==
 
-For WordPress Users:
+For WordPress:
 
 1. Extract .zip file to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
-For WordPress Mu Users:
+For WordPress Mu:
 
 1. Extract .zip in the `/wp-content/mu-plugins/` directory
 2. That's all.
