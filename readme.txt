@@ -3,7 +3,7 @@ Contributors: Sparanoid
 Donate link: http://sparanoid.com/tag/quotmarks-replacer/
 Tags: admin, administration, comment, comments, content, contents, excerpt, feed, feeds, html, page, pages, plugin, plugins, post, posts, template, text, title, writing, wptexturize, wpmu
 Requires at least: 1.5
-Tested up to: 2.8.5
+Tested up to: 2.8.6
 Stable tag: 2.2
 
 Quotmarks Replacer is a plugin disables wptexturize founction that keeps all quotation marks and suspension points in half-width form.
