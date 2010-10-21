@@ -15,12 +15,6 @@ Quotmarks Replacer 通过禁用 wptexturize 函数，解决 WordPress 自动将�
 
 Screenshots
 
-[http://lib.sparanoid.com/qmr01.jpg](http://lib.sparanoid.com/qmr01.jpg)
-
-[http://lib.sparanoid.com/qmr02.jpg](http://lib.sparanoid.com/qmr02.jpg)
-
-[http://lib.sparanoid.com/qmr03.jpg](http://lib.sparanoid.com/qmr03.jpg)
-
 == Installation ==
 
 For WordPress:
@@ -80,16 +74,6 @@ Or:
 
 = 1.0 =  
 * first release
-
-Complete Version History available at the plugin's page:
-[Quotmarks Replacer History](http://sparanoid.com/project/quotmarks-replacer/)
-
-完整历史更新请访问插件页面：
-[Quotmarks Replacer 历史更新](http://sparanoid.com/project/quotmarks-replacer/)
-
-== Screenshots ==
-
-Please visit the [Description](http://wordpress.org/extend/plugins/quotmarks-replacer/) tab
 
 == Frequently Asked Questions ==
 
