@@ -11,7 +11,7 @@ Quotmarks Replacer is a plugin disables wptexturize function that keeps all quot
 == Description ==
 Quotmarks Replacer is a plugin disables wptexturize function that keeps all quotation marks and suspension points in half-width form. This plugin also works fine with multisite enabled WordPress (aka. WordPress Mu).
 
-Quotmarks Replacer 通过禁用 wptexturize 函数，解决 WordPress 自动将半角的单引号、双引号和省略号转换为全角标点的问题。使后台输入的标点格式与前台读者浏览的标点格式保持一致。并且对 WordPress Mu 有良好的支持。
+Quotmarks Replacer 通过禁用 wptexturize 函数，解决 WordPress 自动将半角的单引号、双引号和省略号转换为全角标点的问题。使后台输入的标点格式与前台读者浏览的标点格式保持一致。并且对多站点 (WordPress Mu) 有良好的支持。
 
 Screenshots
 
@@ -22,7 +22,7 @@ For WordPress:
 1. Extract .zip file to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
-For WordPress Mu:
+For multisite enabled WordPress (Mu):
 
 1. Extract .zip in the `/wp-content/mu-plugins/` directory
 2. That's all.
