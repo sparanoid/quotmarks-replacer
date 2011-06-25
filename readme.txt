@@ -3,8 +3,8 @@ Contributors: Sparanoid
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=VJRCEYRS8GTYE&lc=C2&item_name=Plugin%20Donation&button_subtype=services&currency_code=USD&bn=PP%2dBuyNowBF%3abtn_buynowCC_LG%2egif%3aNonHosted
 Tags: admin, administration, comment, comments, content, contents, excerpt, feed, feeds, html, page, pages, plugin, plugins, post, posts, template, text, title, writing, wptexturize, wpmu
 Requires at least: 1.5
-Tested up to: 3.1
-Stable tag: 2.5
+Tested up to: 3.2
+Stable tag: 2.6
 
 Quotmarks Replacer disables wptexturize function that keeps all quotation marks and suspension points in half-width form.
 
@@ -13,26 +13,30 @@ Quotmarks Replacer disables wptexturize function that keeps all quotation marks 
 
 Quotmarks Replacer 通过禁用 wptexturize 函数，解决 WordPress 自动将半角的单引号、双引号和省略号转换为全角标点的问题。使后台输入的标点格式与前台读者浏览的标点格式保持一致。并且对多站点 (WordPress Mu) 有良好的支持。
 
-Screenshots
-
 == Installation ==
 
-For WordPress:
+WordPress:
 
-1. Extract .zip file to the `/wp-content/plugins/` directory
-2. Activate the plugin through the 'Plugins' menu in WordPress
+1. Upload the extracted files to the `/wp-content/plugins/` directory
+2. In 'Plugins' page, choose 'Activate'
 
-For multisite enabled WordPress (Mu):
+Multisite enabled WordPress:
 
-1. Extract .zip in the `/wp-content/mu-plugins/` directory
-2. That's all.
+1. Upload the extracted files to the `/wp-content/plugins/` directory
+2. In 'Site Admin' mode (You need log in as site admin), go to 'Plugins' page, choose 'Network Activate'
+3. Just FYI, you can also activate this plugin individually for different sites.
 
-Or:
+Old-styled WordPress Mu:
 
-1. Extract .zip in the `/wp-content/plugins/` directory
-2. Wait for your bloggers to choose whether activate it or not.
+1. Upload the extracted files to the `/wp-content/mu-plugins/` directory
+2. That's all. 
+
 
 == Changelog ==  
+
+= 2.6 =
+* Compatibility check for 3.2, nothing new, just bump version to tell everyone this plugin still works.
+* Updated setup instructions
 
 = 2.5 =
 * Compatibility check for 3.1
