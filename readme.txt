@@ -3,7 +3,7 @@ Contributors: Sparanoid
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=VJRCEYRS8GTYE&lc=C2&item_name=Plugin%20Donation&button_subtype=services&currency_code=USD&bn=PP%2dBuyNowBF%3abtn_buynowCC_LG%2egif%3aNonHosted
 Tags: admin, administration, comment, comments, content, contents, excerpt, feed, feeds, html, page, pages, plugin, plugins, post, posts, template, text, title, writing, wptexturize, wpmu
 Requires at least: 1.5
-Tested up to: 3.3-RC2
+Tested up to: 3.3
 Stable tag: 2.6.1
 
 Quotmarks Replacer disables wptexturize function that keeps all quotation marks and suspension points in half-width form.
@@ -33,6 +33,9 @@ Old-styled WordPress Mu:
 
 
 == Changelog ==  
+
+= 2.6.2 =
+* Compatibility check for 3.3-RC and 3.3, nothing new, just bump version to tell everyone this plugin still works.
 
 = 2.6.1 =
 * Compatibility check for 3.3-aortic-dissection, nothing new, just bump version to tell everyone this plugin still works.
