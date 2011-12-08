@@ -32,6 +32,12 @@ Old-styled WordPress Mu:
 2. That's all. 
 
 
+== Upgrade Notice ==
+
+= 2.6.2 =
+* Compatibility check for 3.3-RC and 3.3, nothing new, just bump version to tell everyone this plugin still works.
+
+
 == Changelog ==  
 
 = 2.6.2 =
