@@ -4,7 +4,9 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=VJRCEYRS
 Tags: admin, administration, comment, comments, content, contents, excerpt, excerpts, feed, feeds, html, multisite, page, pages, plugin, plugins, post, posts, template, templates, text, title, widget, widgets, wpmu, wptexturize, writing
 Requires at least: 1.5
 Tested up to: 3.4
-Stable tag: 2.6.4
+Stable tag: 2.6.5
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Quotmarks Replacer disables wptexturize function that keeps all quotation marks and suspension points in half-width form.
 
@@ -33,6 +35,9 @@ Old-styled WordPress Mu:
 
 == Upgrade Notice ==
 
+= 2.6.5 =
+* Compatibility check for 3.4, nothing new, just bump version to tell everyone this plugin still works.
+
 = 2.6.4 =
 * Update license and readme.txt, compatibility check for 3.4-beta.
 
@@ -43,6 +48,12 @@ Old-styled WordPress Mu:
 * Compatibility check for 3.3-RC and 3.3, nothing new, just bump version to tell everyone this plugin still works.
 
 == Changelog ==  
+
+= 2.6.5 =
+* Compatibility check for 3.4, nothing new, just bump version to tell everyone this plugin still works.
+
+= 2.6.4 =
+* Update license and readme.txt, compatibility check for 3.4-beta.
 
 = 2.6.3 =
 * Update whitespaces
