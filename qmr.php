@@ -2,7 +2,7 @@
 /*
 Plugin Name: Quotmarks Replacer
 Plugin URI: http://sparanoid.com/work/quotmarks-replacer/
-Description: A plugin disables wptexturize founction that keeps all quotation marks and suspension points in half-width form.
+Description: A plugin disables wptexturize function that keeps all quotation marks and suspension points in half-width form.
 Version: 2.6.5
 Author: Tunghsiao Liu
 Author URI: http://sparanoid.com/
@@ -12,7 +12,7 @@ License: GPLv2 or later
   Copyright 2012 Tunghsiao Liu, aka. Sparanoid (info@sparanoid.com)
 
   This program is free software; you can redistribute it and/or modify
-  it under the terms of the GNU General Public License, version 2, as 
+  it under the terms of the GNU General Public License, version 2, as
   published by the Free Software Foundation.
 
   This program is distributed in the hope that it will be useful,
