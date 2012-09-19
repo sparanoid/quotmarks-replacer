@@ -3,8 +3,8 @@ Contributors: Sparanoid
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=VJRCEYRS8GTYE&lc=C2&item_name=Plugin%20Donation&button_subtype=services&currency_code=USD&bn=PP%2dBuyNowBF%3abtn_buynowCC_LG%2egif%3aNonHosted
 Tags: admin, administration, comment, comments, content, contents, excerpt, excerpts, feed, feeds, html, multisite, page, pages, plugin, plugins, post, posts, template, templates, text, title, widget, widgets, wpmu, wptexturize, writing
 Requires at least: 1.5
-Tested up to: 3.4
-Stable tag: 2.6.5
+Tested up to: 3.5
+Stable tag: 2.6.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -31,9 +31,12 @@ Multisite enabled WordPress:
 Old-styled WordPress Mu:
 
 1. Upload the extracted files to the `/wp-content/mu-plugins/` directory
-2. That's all. 
+2. That's all.
 
 == Upgrade Notice ==
+
+= 2.6.6 =
+* Compatibility check for 3.5 alpha, Moving plugin development repo from WordPress.org to GitHub. You can find the new repo at https://github.com/sparanoid/quotmarks-replacer
 
 = 2.6.5 =
 * Compatibility check for 3.4, nothing new, just bump version to tell everyone this plugin still works.
@@ -47,7 +50,10 @@ Old-styled WordPress Mu:
 = 2.6.2 =
 * Compatibility check for 3.3-RC and 3.3, nothing new, just bump version to tell everyone this plugin still works.
 
-== Changelog ==  
+== Changelog ==
+
+= 2.6.6 =
+* Compatibility check for 3.5 alpha, Moving plugin development repo from WordPress.org to GitHub. You can find the new repo at https://github.com/sparanoid/quotmarks-replacer
 
 = 2.6.5 =
 * Compatibility check for 3.4, nothing new, just bump version to tell everyone this plugin still works.
@@ -97,7 +103,7 @@ Old-styled WordPress Mu:
 = 1.1 =
 * More filters are added (category_description, comment_author, comment_excerpt, list_cats)
 
-= 1.0.5 =  
+= 1.0.5 =
 * Error in converting #8211 and #8212.
 
 = 1.0.4 =
