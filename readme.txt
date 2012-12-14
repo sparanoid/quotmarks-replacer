@@ -1,17 +1,21 @@
 === Quotmarks Replacer ===
+
 Contributors: Sparanoid
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=VJRCEYRS8GTYE&lc=C2&item_name=Plugin%20Donation&button_subtype=services&currency_code=USD&bn=PP%2dBuyNowBF%3abtn_buynowCC_LG%2egif%3aNonHosted
 Tags: admin, administration, comment, comments, content, contents, excerpt, excerpts, feed, feeds, html, multisite, page, pages, plugin, plugins, post, posts, template, templates, text, title, widget, widgets, wpmu, wptexturize, writing
 Requires at least: 1.5
 Tested up to: 3.5
-Stable tag: 2.6.7
+Stable tag: 2.6.8
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Quotmarks Replacer disables wptexturize function that keeps all quotation marks and suspension points in half-width form.
 
 == Description ==
+
 Quotmarks Replacer disables `wptexturize` function that keeps all quotation marks and suspension points in half-width form. This plugin also works fine with multisite enabled WordPress (aka. WordPress Mu).
+
+More information please visit my [site](http://sparanoid.com/work/quotmarks-replacer/).
 
 Quotmarks Replacer 通過禁用 `wptexturize` 函數，解決 WordPress 自動將半形的單引號、雙引號和省略號轉換爲全形標點的問題。使後台輸入的標點格式與前台讀者瀏覽的標點格式保持一致。並且對 multisite 多站點（WordPress Mu）有良好的支持
 
@@ -43,6 +47,9 @@ Old-styled WordPress Mu:
 
 == Upgrade Notice ==
 
+= 2.6.8 =
+* Update plugin description and page design on sparanoid.com, check it out: http://sparanoid.com/work/quotmarks-replacer/ props @lianghai
+
 = 2.6.7 =
 * Compatibility check for 3.5, nothing new, just bump version to tell everyone this plugin still works.
 
@@ -62,6 +69,9 @@ Old-styled WordPress Mu:
 * Compatibility check for 3.3-RC and 3.3, nothing new, just bump version to tell everyone this plugin still works.
 
 == Changelog ==
+
+= 2.6.8 =
+* Update plugin description and page design on sparanoid.com, check it out: http://sparanoid.com/work/quotmarks-replacer/ props @lianghai
 
 = 2.6.7 =
 * Compatibility check for 3.5, nothing new, just bump version to tell everyone this plugin still works.
