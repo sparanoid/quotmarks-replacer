@@ -47,6 +47,9 @@ Old-styled WordPress Mu:
 
 == Upgrade Notice ==
 
+= 2.6.9 =
+* Update donate link, If you like this plugin, please consider buying me a cup of coffee.
+
 = 2.6.8 =
 * Update plugin description and page design on sparanoid.com, check it out: http://sparanoid.com/work/quotmarks-replacer/ props @lianghai
 
