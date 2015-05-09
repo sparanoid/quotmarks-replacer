@@ -47,4 +47,3 @@ $qmr_work_tags = array(
 foreach ( $qmr_work_tags as $qmr_work_tag ) {
   remove_filter ($qmr_work_tag, 'wptexturize');
 }
-?>
