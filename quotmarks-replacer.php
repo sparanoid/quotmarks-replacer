@@ -3,13 +3,13 @@
 Plugin Name: Quotmarks Replacer
 Plugin URI: http://sparanoid.com/work/quotmarks-replacer/
 Description: Quotmarks Replacer disables wptexturize function that keeps all quotation marks and suspension points in half-width form.
-Version: 2.6.16
+Version: 2.6.17
 Author: sparanoid
 Author URI: http://sparanoid.com/
 Author Email: t@sparanoid.com
 License: GPLv2 or later
 
-  Copyright 2015 sparanoid, aka. Sparanoid (t@sparanoid.com)
+  Copyright 2016 sparanoid, aka. Sparanoid (t@sparanoid.com)
 
   This program is free software; you can redistribute it and/or modify
   it under the terms of the GNU General Public License, version 2, as
