@@ -4,8 +4,8 @@ Contributors: Sparanoid
 Donate link: http://sparanoid.com/donate/
 Tags: admin, administration, comment, comments, content, contents, excerpt, excerpts, feed, feeds, html, multisite, page, pages, plugin, plugins, post, posts, template, templates, text, title, widget, widgets, wpmu, wptexturize, writing
 Requires at least: 1.5
-Tested up to: 4.4
-Stable tag: 2.6.16
+Tested up to: 4.5
+Stable tag: 2.6.17
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -46,6 +46,9 @@ Old-styled WordPress Mu:
 2. That's all.
 
 == Upgrade Notice ==
+
+= 2.6.17 =
+* Compatibility check for 4.5, nothing new, just bump version to tell everyone this plugin still works.
 
 = 2.6.16 =
 * Fix: Plugin version not updated
@@ -93,6 +96,9 @@ Old-styled WordPress Mu:
 * Compatibility check for 3.3-RC and 3.3, nothing new, just bump version to tell everyone this plugin still works.
 
 == Changelog ==
+
+= 2.6.17 =
+* Compatibility check for 4.5, nothing new, just bump version to tell everyone this plugin still works.
 
 = 2.6.16 =
 * Fix: Plugin version not updated
