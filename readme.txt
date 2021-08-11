@@ -1,11 +1,11 @@
 === Quotmarks Replacer ===
 
 Contributors: Sparanoid
-Donate link: http://sparanoid.com/donate/
+Donate link: https://sparanoid.com/donate/
 Tags: admin, administration, comment, comments, content, contents, excerpt, excerpts, feed, feeds, html, multisite, page, pages, plugin, plugins, post, posts, template, templates, text, title, widget, widgets, wpmu, wptexturize, writing
 Requires at least: 1.5
-Tested up to: 5.0
-Stable tag: 2.6.19
+Tested up to: 5.8
+Stable tag: 2.6.20
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -15,7 +15,7 @@ Quotmarks Replacer disables wptexturize function that keeps all quotation marks 
 
 Quotmarks Replacer disables `wptexturize` function that keeps all quotation marks and suspension points in half-width form. This plugin also works fine with multisite enabled WordPress (aka. WordPress Mu).
 
-More information please visit my [site](http://sparanoid.com/work/quotmarks-replacer/).
+More information please visit my [site](https://sparanoid.com/work/quotmarks-replacer/).
 
 Quotmarks Replacer 通過禁用 `wptexturize` 函數，解決 WordPress 自動將半形的單引號、雙引號和省略號轉換爲全形標點的問題。使後台輸入的標點格式與前台讀者瀏覽的標點格式保持一致。並且對 multisite 多站點（WordPress Mu）有良好的支持
 
@@ -47,6 +47,9 @@ Old-styled WordPress Mu:
 
 == Upgrade Notice ==
 
+= 2.6.20 =
+* Compatibility check for 5.8, nothing new, just bump version to tell everyone this plugin still works.
+
 = 2.6.19 =
 * Compatibility check for 5.0, nothing new, just bump version to tell everyone this plugin still works.
 
@@ -81,7 +84,7 @@ Old-styled WordPress Mu:
 * Update donate link, If you like this plugin, please consider buying me a cup of coffee.
 
 = 2.6.8 =
-* Update plugin description and page design on sparanoid.com, check it out: http://sparanoid.com/work/quotmarks-replacer/ props @lianghai
+* Update plugin description and page design on sparanoid.com, check it out: https://sparanoid.com/work/quotmarks-replacer/ props @lianghai
 
 = 2.6.7 =
 * Compatibility check for 3.5, nothing new, just bump version to tell everyone this plugin still works.
@@ -103,6 +106,9 @@ Old-styled WordPress Mu:
 
 == Changelog ==
 
+= 2.6.20 =
+* Compatibility check for 5.8, nothing new, just bump version to tell everyone this plugin still works.
+
 = 2.6.19 =
 * Compatibility check for 5.0, nothing new, just bump version to tell everyone this plugin still works.
 
@@ -137,7 +143,7 @@ Old-styled WordPress Mu:
 * Update donate link, If you like this plugin, please consider buying me a cup of coffee.
 
 = 2.6.8 =
-* Update plugin description and page design on sparanoid.com, check it out: http://sparanoid.com/work/quotmarks-replacer/ props @lianghai
+* Update plugin description and page design on sparanoid.com, check it out: https://sparanoid.com/work/quotmarks-replacer/ props @lianghai
 
 = 2.6.7 =
 * Compatibility check for 3.5, nothing new, just bump version to tell everyone this plugin still works.
